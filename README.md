@@ -6,7 +6,7 @@ During training, the left paddle is controlled by a simple heuristic AI. During 
 The neural network learns how to play Pong by evolving its structure and weights over generations.
 
 ---
-
+## Gameplay
 ![NEAT - Pong](https://github.com/user-attachments/assets/b185d350-dacc-4f0d-943e-daa52e04791c)
 
 ---
